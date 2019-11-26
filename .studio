@@ -1,0 +1,22 @@
+{
+  "server": {
+    "mfpUrl": "http://localhost:9080",
+    "serverName": "icpa-mobile-server",
+    "confidentialServerUrl": "/mfp/api/az/v1/token"
+  },
+  "type": "ionic",
+  "platforms": [
+    "android"
+  ],
+  "isAppAuth": false,
+  "isEncrypt": false,
+  "projectIcon": "/Users/rajarahul/Documents/IBM/pipeline/test/Testclibuild/ionic/resources/icon.png",
+  "projectName": "Testclibuild",
+  "projectVersion": "1.0.0",
+  "projectBundleId": "com.ibm.testcli",
+  "isAnalyticsEnabled": false,
+  "isPush": false,
+  "isLiveUpdateEnabled": false,
+  "projectMode": "code",
+  "createdMode": "mfpdev-cli"
+}
