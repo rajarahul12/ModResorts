@@ -123,9 +123,11 @@
         </mfp:windows10>
         <mfp:appChecksum>0</mfp:appChecksum>
     </mfp:windows>
-    <mfp:platformVersion>8.0.0.00-20190716-071656</mfp:platformVersion>
+    <mfp:platformVersion>8.0.0.00-20191114-111308</mfp:platformVersion>
     <mfp:clientCustomInit enabled="false" />
     <mfp:server runtime="mfp" url="http://10.0.0.1:9080" />
     <mfp:directUpdateAuthenticityPublicKey />
     <mfp:languagePreferences>en</mfp:languagePreferences>
+    <mfp:serverUri url="" />
+    <mfp:APIproxyURL>/adapters/MobileAPIProxy</mfp:APIproxyURL>
 </widget>
