@@ -11,8 +11,8 @@
     "servercred": "admin:admin"
   },
   "default": {
-    "hostname": "184.173.5.44",
-    "port": "30989",
+    "hostname": "9.109.199.108",
+    "port": "9080",
     "servercred": "admin:admin"
   },
   "userName":"rajarahul12",
