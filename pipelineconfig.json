@@ -15,7 +15,7 @@
     "port": "30989",
     "servercred": "admin:admin"
   },
-  "username":"rajarahul12",
+  "userName":"rajarahul12",
   "repoName": "Testionic",
   "ios": {
      "host": "9.109.199.154",
