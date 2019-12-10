@@ -1,7 +1,7 @@
   
 #!/usr/bin/env bash
 jsonFile=$1;
-filetype=$2;
+fileType=$2;
 
 node > out_${jsonFile} <<EOF
 //Read data
@@ -20,7 +20,7 @@ data.is_active = 'Y';
 data.is_ready_prod = 'Y';
 data.files = [];
 appdata = {};
-appdata.type = ${filetype};
+appdata.type = ${fileType};
 appdata.cid = data.cid;
 appdata.size = data.size;
 appdata.filename = data.filename;
