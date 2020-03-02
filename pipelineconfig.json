@@ -11,8 +11,8 @@
     "servercred": "admin:admin"
   },
   "default": {
-    "hostname": "mobilefoundation-nn40-server.eu-gb.mybluemix.net",
-    "port": "443",
+    "hostname": "9.109.199.146",
+    "port": "9080",
     "servercred": "admin:admin"
   },
   "userName":"rajarahul12",
