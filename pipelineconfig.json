@@ -11,7 +11,7 @@
     "servercred": "admin:admin"
   },
   "default": {
-    "hostname": "localhost",
+    "hostname": "mobilefoundationdemo.apps.ocp41-sv21.os.fyre.ibm.com",
     "port": "80",
     "servercred": "admin:admin"
   },
