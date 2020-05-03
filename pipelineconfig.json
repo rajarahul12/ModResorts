@@ -12,7 +12,7 @@
   },
   "default": {
     "hostname": "mobilefoundationdemo.apps.ocp41-sv21.os.fyre.ibm.com",
-    "port": "80",
+    "port": "9080",
     "servercred": "admin:admin"
   },
   "userName":"rajarahul12",
