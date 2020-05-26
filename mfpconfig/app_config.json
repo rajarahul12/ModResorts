@@ -15,7 +15,7 @@
     {
       "applicationKey": {
         "version": "1.0.0",
-        "clientPlatform": "ios",
+        "clientPlatform": "android",
         "bundleId": "com.demo.push.d"
       },
       "displayName": "DemoApp8",
