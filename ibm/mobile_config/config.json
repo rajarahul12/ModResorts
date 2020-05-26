@@ -5,4 +5,8 @@
       "packageName":"com.ibm.modresorts"
    },
    "displayName":"ModResorts"
+   "scopeElementMapping": {
+        "push.mobileclient": "",
+        "liveupdate.mobileclient": ""
+   }
 }
