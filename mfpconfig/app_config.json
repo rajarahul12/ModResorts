@@ -16,7 +16,7 @@
       "applicationKey": {
         "version": "1.0.0",
         "clientPlatform": "android",
-        "bundleId": "com.demo.push.d"
+        "packageName": "com.demo.push.d"
       },
       "displayName": "DemoApp8",
       "scopeElementMapping": {
