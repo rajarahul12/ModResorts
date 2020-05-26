@@ -4,7 +4,7 @@
       "clientPlatform":"android",
       "packageName":"com.ibm.modresorts"
    },
-   "displayName":"ModResorts"
+   "displayName":"ModResorts",
    "scopeElementMapping": {
         "push.mobileclient": "",
         "liveupdate.mobileclient": ""
