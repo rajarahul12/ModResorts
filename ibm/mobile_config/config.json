@@ -1,1 +1,8 @@
-{"applicationKey":{"version":"1.0.0","clientPlatform":"android","packageName":"com.ibm.modresorts"},"displayName":"ModResorts"}
+{
+   "applicationKey":{
+      "version":"1.0.0",
+      "clientPlatform":"android",
+      "packageName":"com.ibm.modresorts"
+   },
+   "displayName":"ModResorts"
+}
