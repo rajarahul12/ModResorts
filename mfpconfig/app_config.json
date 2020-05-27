@@ -34,6 +34,11 @@
         "gcm": {
           "apiKey": "AAAAGq1Fpbw:APA91bEjhjZLuFMC4hG46nJ4zbL7dyU-BHyNOFqfC_JVOx1JElg_1029_JwliDvYbcsoRe0lS4XOMjawCh09FhVY7-1DbKyjDJBzfuM2_cXOUjLSjnJ1rscqzV1muGJ3e938W17bQxgV2kZPM-nD0I7dNdh37o378A",
           "senderId": "114576172476"
+        },
+        "apns": {
+          "certificate": "./webpush-charan.p12",
+          "isSandBox": true,
+          "password": "12323"
         }
       },
       "tags": [
